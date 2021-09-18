@@ -2,7 +2,7 @@
 京东京喜工厂自动开团
  */
 const $ = new Env('京东京喜工厂自动开团');
-const tuanActiveId = `Rjp4SYMY2Mk2oekYy2aBSg==`;
+const tuanActiveId = `tCo0qqjNLYX_v3sjUL8RcQ==`;
 const JD_API_HOST = 'https://m.jingxi.com';
 const fs = require('fs');
 const notify = $.isNode() ? require('./sendNotify') : '';
